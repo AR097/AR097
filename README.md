@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**AR097/AR097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou a Andressa Rodrigues, atualmente no segundo semestre de Ciência da computação.
+Apaixonada pelo mundo da tecnologia desde que me entendo por gente, decidi no inicio do ano me desafiar neste mundo de oportunidades. No momento, não atuo na área e estou aproveitando o primeiro ano da faculdade para desenvolver meus conhecimentos e abilidades.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 💻 Knowledge programming languages
+- HTML
+- CSS
+- JavaScript
+- Python
+ 
+💻  Integrated development environment and framework 
+- <a href="https://flet.dev/">Flutter<a/>
+- <a href="https://code.visualstudio.com">Visual Studio Code<a/>
+- <a href="https://www.jetbrains.com/pycharm/">PyCharm<a/>
