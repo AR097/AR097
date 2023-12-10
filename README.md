@@ -1,7 +1,4 @@
-### Hi there 👋
-
-Sou a Andressa Rodrigues, atualmente no segundo semestre de Ciência da Computação.
-Apaixonada pelo mundo da tecnologia desde que me entendo por gente, decidi no inicio do ano me desafiar neste mundo de oportunidades. No momento, não atuo na área e estou aproveitando o primeiro ano da faculdade para desenvolver meus conhecimentos e habilidades.
+### Hi!
 
 💻 Knowledge programming languages
 - HTML
