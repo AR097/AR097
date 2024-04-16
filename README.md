@@ -1,7 +1,7 @@
 ## Olá, Eu sou a Andressa Rodrigues!
 - 🧩💡 Projeto atual: WebPortfólio
 - 🎓 Ciência da computação - 3º Semestre
-- 🔍 Estou aprofundando meus estudos em JavaScript.
+- 🔍 Atualmente estou aprofundando meus estudos em JavaScript.
   
 <div>
     <a href="https://github.com/AR097">
