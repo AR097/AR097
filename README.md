@@ -7,6 +7,7 @@
     <a href="https://github.com/AR097">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AR097&theme=midnight-purple&show_icons=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AR097&size_weight=0.5&count_weight=0.5&theme=midnight-purple&show_icons=true"/>
+po
 </div> 
         
 ##
@@ -24,5 +25,6 @@
 <div> 
     <a href = "mailto:andressamaisvpn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://codepen.io/Andressa-Rodrigues-the-encoder" target="_blank"><img src="" target="_blank"></a> 
   
 </div>
