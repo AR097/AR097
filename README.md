@@ -1,5 +1,5 @@
 ## Olá, Eu sou a Andressa Rodrigues!
-- 🧩💡 Projeto atual: Reorganizando projetos anteriores.
+<!-- 🧩💡 Projeto atual: .-->
 - 🎓 Ciência da computação - 3º Semestre
 - 🔍 Atualmente estou aprofundando meus estudos em JavaScript.
   
