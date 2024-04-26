@@ -1,5 +1,5 @@
 ## Olá, Eu sou a Andressa Rodrigues!
-<!-- 🧩💡 Projeto atual: .-->
+- 🧩💡 Projeto atual: Kanban Board.
 - 🎓 Ciência da computação - 3º Semestre
 - 🔍 Atualmente estou aprofundando meus estudos em JavaScript.
   
