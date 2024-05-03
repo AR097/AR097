@@ -1,7 +1,7 @@
 ## Olá, Eu sou a Andressa Rodrigues!
 <!-- 🧩💡 Projeto atual: -->
 - 🎓 Ciência da computação - 3º Semestre
-- 🔍 Atualmente estou aprofundando meus estudos em APIs - Flutter.
+- 🔍 Atualmente estou aprofundando meus estudos em React.
   
 <div>
     <a href="https://github.com/AR097">
