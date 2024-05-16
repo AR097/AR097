@@ -35,5 +35,8 @@
 **IDEs, editores e extensões que uso:** <br><br>
  <img align="center" alt="" height="30" width="30" src="https://github.com/AR097/AR097/blob/main/img/vs-code-responsive-01-1.png?raw=true">
 
+##
+
+**Outros**
 
 
