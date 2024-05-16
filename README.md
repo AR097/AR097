@@ -37,6 +37,7 @@
 
 ##
 
-**Outros**
+**Outros** <br><br>
+ <img align="center" alt="" height="30" width="30" src="https://raw.githubusercontent.com/AR097/AR097/ff9975ffc0b3a9200e3a07a56a9e55b4b845d3c6/img/vite.svg">
 
 
