@@ -8,8 +8,15 @@
     <a href="https://github.com/AR097">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AR097&theme=midnight-purple&show_icons=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AR097&size_weight=0.5&count_weight=0.5&theme=midnight-purple&show_icons=true"/>
-
 </div> 
+
+ ### Idiomas
+<div>
+  <li>Português - Nativo</li>
+  <li>Inglês - Intermediário</li>
+  <li>Chinês - Básico (A2) </li>
+  <li>Japonês - Básico (N4) </li>
+</div>
 
 ##
 
