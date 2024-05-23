@@ -1,8 +1,8 @@
-## Olá, Eu sou a Andressa Rodrigues!
+## Hi, I'm Andressa Rodrigues!
 
 <!-- 🧩💡 Projeto atual: -->
-- 🎓 Ciência da computação - 3º Semestre
-- 🔍 Atualmente estou aprofundando meus estudos em React.
+- 🎓 Computer science - 3º period.
+- 🔍 Currently, I'm deepening my knowledge in React.
   
 <div>
     <a href="https://github.com/AR097">
@@ -20,23 +20,16 @@
 
 ##
 
-**Meus conhecimentos em Desenvolvimento Web:**
-<div style="display: inline_block"><br> 
+**Skills**
+<div style="display: inline_block">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="" height="30" width="30" src="https://github.com/AR097/AR097/blob/main/img/vs-code-responsive-01-1.png?raw=true">
+  <img align="center" alt="" height="30" width="30" src="https://raw.githubusercontent.com/AR097/AR097/ff9975ffc0b3a9200e3a07a56a9e55b4b845d3c6/img/vite.svg">
 </div>
 
-##
-
-**IDEs, editores e extensões que uso:** <br><br>
- <img align="center" alt="" height="30" width="30" src="https://github.com/AR097/AR097/blob/main/img/vs-code-responsive-01-1.png?raw=true">
-
-##
-
-**Outros** <br><br>
- <img align="center" alt="" height="30" width="30" src="https://raw.githubusercontent.com/AR097/AR097/ff9975ffc0b3a9200e3a07a56a9e55b4b845d3c6/img/vite.svg">
 
 
