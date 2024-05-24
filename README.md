@@ -1,4 +1,3 @@
-## Hi, I'm Andressa Rodrigues!
   <!--Imagem/link site-->
   <div >
     <a href="https://ar097.github.io/Portfolio/#pghome" target="_blank">
@@ -14,16 +13,12 @@
         <a href="" target="_blank">
           <img align="center" alt="" height="20" width="60" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
         </a> 
-        <a href="https://codepen.io/Andressa-Rodrigues-the-encoder" target="_blank"><img align="center" alt="" height="20" width="60"   src="" target="_blank" >
-          <img align="center" alt="" height="20" width="60" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-        </a> 
     </div><br>
     <!--fim-->
   </div>
- 
-
-
   
+ ## Hi, I'm Andressa Rodrigues!
+ 
 <div>
     <a href="https://github.com/AR097">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AR097&theme=midnight-purple&show_icons=true"/>
