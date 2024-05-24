@@ -1,11 +1,28 @@
 ## Hi, I'm Andressa Rodrigues!
-<a href="https://ar097.github.io/Portfolio/#pghome" target="_blank">
-  <img src="https://github.com/AR097/AR097/assets/107823438/0d39a18a-4a36-4693-8768-f449917143cc"/>
-</a>
+  <!--Imagem/link site-->
+  <div >
+    <a href="https://ar097.github.io/Portfolio/#pghome" target="_blank">
+      <img src="https://github.com/AR097/AR097/assets/107823438/0d39a18a-4a36-4693-8768-f449917143cc"/>
+    </a>
+  </div>
+  <!--fim-->
+  <!--Redes sociais/contato-->
+    <div>
+        <a href = "mailto:andressamaisvpn@gmail.com">
+          <img align="center" alt="" height="20" width="60" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+        </a>
+        <a href="" target="_blank">
+          <img align="center" alt="" height="20" width="60" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+        </a> 
+        <a href="https://codepen.io/Andressa-Rodrigues-the-encoder" target="_blank"><img align="center" alt="" height="20" width="60"   src="" target="_blank" >
+          <img align="center" alt="" height="20" width="60" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+        </a> 
+    </div><br>
+    <!--fim-->
+  </div>
+ 
 
-<!-- 🧩💡 Projeto atual: -->
-- 🎓 Computer science - 3º period.
-- 🔍 Currently, I'm deepening my knowledge in React.
+
   
 <div>
     <a href="https://github.com/AR097">
@@ -15,11 +32,7 @@
 
 ##
 
-<div style="display: inline_block"><br>
-    <a href = "mailto:andressamaisvpn@gmail.com"><img align="center" alt="" height="20" width="60" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="" target="_blank"><img align="center" alt="" height="20" width="60" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://codepen.io/Andressa-Rodrigues-the-encoder" target="_blank"><img align="center" alt="" height="20" width="60"   src="" target="_blank" ></a> 
-</div>
+
 
 ##
 
