@@ -1,4 +1,7 @@
 ## Hi, I'm Andressa Rodrigues!
+<a href="https://ar097.github.io/Portfolio/#pghome" target="_blank">
+  <img src="https://github.com/AR097/AR097/assets/107823438/0d39a18a-4a36-4693-8768-f449917143cc"/>
+</a>
 
 <!-- 🧩💡 Projeto atual: -->
 - 🎓 Computer science - 3º period.
