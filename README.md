@@ -33,14 +33,24 @@
 
 **Skills**
 <div style="display: inline_block">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="" height="30" width="30" src="https://github.com/AR097/AR097/blob/main/img/vs-code-responsive-01-1.png?raw=true">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> |
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> |
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> |
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> |
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> |
   <img align="center" alt="" height="30" width="30" src="https://raw.githubusercontent.com/AR097/AR097/ff9975ffc0b3a9200e3a07a56a9e55b4b845d3c6/img/vite.svg">
 </div>
+
+##
+
+**I Use**
+<div style="display: inline_block">
+  <img align="center" alt="" height="30" width="40" src="https://static.canva.com/web/images/12487a1e0770d29351bd4ce4f87ec8fe.svg">  |
+  <img align="center" alt="" height="30" width="30" src="https://github.com/AR097/AR097/blob/main/img/vs-code-responsive-01-1.png?raw=true">
+</div>
+  
+</div>
+
 
 
 
