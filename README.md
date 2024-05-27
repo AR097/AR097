@@ -46,10 +46,3 @@
 </div>
   
 </div>
-
-### 🎬 Profile Counter
-![](https://profile-counter.glitch.me/AR097/count.svg)
-
-
-
-
