@@ -18,7 +18,9 @@
   </div>
   
  ## Hi, I'm Andressa Rodrigues!
- 
+<p>
+  I study programing since 2021 on my own as a hobby, currently, I am advancing my career by pursuing studies as a computer science at the faculty. I'm a quick learner and I like to create project efficient, scalable, and user-friendly solutions that solve real-world problems. I am always seeking innovation and continually expanding my skill set, I immerse myself in github profiles, I like this, this way I can develop my knowledge and cultivate my creativity.
+</p>
 <div>
     <a href="https://github.com/AR097">
     <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AR097&size_weight=0.5&count_weight=0.5&theme=midnight-purple&show_icons=true"/>
