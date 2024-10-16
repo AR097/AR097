@@ -3,15 +3,13 @@
 <p align="center">
   I have been studying programming since 2021 as a hobby. Currently, I am advancing my career by pursuing studies in Computer Science. I'm a quick learner who enjoys creating efficient, scalable, and user-friendly solutions to solve real-world problems. I am always seeking innovation and continually expanding my skill set. Immersing myself in GitHub profiles helps me to develop my knowledge and cultivate creativity.
 </p>
-<!-- Redes sociais/Contato -->
-<div align="center">
-    <a href="mailto:andressamaisvpn@gmail.com">
-        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30">
-    </a>
-    <a href="https://www.linkedin.com/in/andressarodriguesperfil/" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
-    </a> 
+<div>
+  👩‍💻 Computer science 4/8
+  <br>
+  🚚 Logistics 👨🏼‍🎓
 </div>
+<!-- Redes sociais/Contato -->
+
 <div align="center">
     <a href="https://github.com/AR097">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AR097&layout=compact&theme=midnight-purple&langs_count=6&show_icons=true"/>
