@@ -1,10 +1,6 @@
 
 # Hi, I'm Andressa Rodrigues! 👋
 <p align="center">
-  I have been studying programming since 2021 as a hobby. Currently, I am advancing my career by pursuing studies in Computer Science. I'm a quick learner who enjoys creating efficient, scalable, and user-friendly solutions to solve real-world problems. I am always seeking innovation and continually expanding my skill set. Immersing myself in GitHub profiles helps me to develop my knowledge and cultivate creativity.
-</p>
-  🚚 Logistics 👨🏼‍🎓
-</div>
 <!-- Redes sociais/Contato -->
 
 <div align="center">
